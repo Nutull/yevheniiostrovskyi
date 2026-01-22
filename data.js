@@ -24,7 +24,8 @@ const projectsData = [
         id: "tuntuntun",
         title: "TUNTUNTUN",
         image: "img/images (1).jpg",
-        description: "3.1415926535 8979323846 2643383279 5028841971 6939937510",
+        description: "3.1415926535",
         gallery: ["img/images (1).jpg", "img/photo_2026-01-17_15-22-00.jpg"]
     }
+
 ];
