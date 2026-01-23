@@ -12,7 +12,6 @@
 <link rel="icon" href="logos/logo.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="logos/apple-touch-icon.png">
 <link rel="manifest" href="logos/site.webmanifest.txt">
-
 </head>
 <body>
 
@@ -36,10 +35,42 @@
         </nav>
     </header>
     <main>
-        <section class="intro">
+        <!-- <section class="intro">
             <p>A selected showcase of 3D projects, focused on the full production pipeline — from high-fidelity modeling and technical rigging to cinematic environment assembly and lighting.</p>
-        </section>
+        </section> -->
+        <section class="intro" style="position: relative; padding: 8vh 5% 7vh; min-height: 10vh; display: flex; flex-direction: column; justify-content: center; align-items: center; overflow: hidden;">
+        
+        <div style="position: absolute; z-index: 0; width: 100%; max-width: 600px; height: 100%; pointer-events: none; display: flex; justify-content: center; align-items: center;">
+    <svg viewBox="0 0 200 200" style="width: 100%; height: auto; opacity: 0.18; filter: drop-shadow(0 0 15px var(--accent-color));">
+        <g stroke="var(--accent-color)" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            
+            <path d="M100 40 l50 25 l-50 25 l-50 -25 z" />
+            
+            <path d="M100 40 v60" opacity="0.4" stroke-dasharray="2 2" /> <path d="M150 65 v60" /> <path d="M50 65 v60" />  <path d="M100 90 v60" /> <path d="M50 125 l50 25 l50 -25" /> <path d="M50 125 l50 -25 l50 25" opacity="0.4" stroke-dasharray="2 2" /> <circle cx="100" cy="40" r="1.2" fill="var(--accent-color)" /> <circle cx="150" cy="65" r="1.2" fill="var(--accent-color)" /> <circle cx="50" cy="65" r="1.2" fill="var(--accent-color)" />  <circle cx="100" cy="90" r="1.2" fill="var(--accent-color)" /> <circle cx="150" cy="125" r="1.2" fill="var(--accent-color)" /> <circle cx="50" cy="125" r="1.2" fill="var(--accent-color)" />  <circle cx="100" cy="150" r="1.2" fill="var(--accent-color)" /> </g>
 
+        <ellipse cx="100" cy="95" rx="85" ry="35" stroke="var(--accent-color)" stroke-width="0.8" fill="none" transform="rotate(-15 100 95)" opacity="0.4" />
+        <ellipse cx="100" cy="95" rx="45" ry="85" stroke="var(--accent-color)" stroke-width="0.7" fill="none" transform="rotate(75 100 95)" opacity="0.3" />
+    </svg>
+</div>
+
+        <div style="z-index: 1; text-align: center; position: relative;">
+            <p style="font-size: 0.99rem; letter-spacing: 5px; color: var(--accent-color); text-transform: uppercase; margin-bottom: 15px; font-weight: 600; opacity: 0.8;">
+                HI THERE, I AM
+            </p>
+            
+            <h1 class="project-title-large" style="margin-bottom: 15px; line-height: 0.85; letter-spacing: -3px; font-size: clamp(3.5rem, 12vw, 7rem);">
+                3D<br>
+                <span style="color: var(--accent-color);">Generalist</span>
+            </h1>
+            
+            <p class="subtitle_1" style="margin: 0 auto; font-size: 1.2rem; max-width: 500px; line-height: 1.5; color: var(--text-main); opacity: 0.7;">
+                This is a collection of my 3D works. I handle the whole cycle — from building the mesh to the final scene.
+            </p>
+        </div>
+    </section>
+
+
+    
         <div class="projects-grid" id="projects-container">
             </div>
     </main>
