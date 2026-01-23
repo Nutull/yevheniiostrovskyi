@@ -20,9 +20,21 @@ function loadProject() {
             </header>
 
             <div class="project-media-list">
-                ${project.gallery.map(img => `
-                    <img src="${img}" class="project-media-item" alt="${project.title} Render">
-                `).join('')}
+                ${project.gallery.map(file => {
+                
+                    const isVideo = file.toLowerCase().endsWith('.mov') || file.toLowerCase().endsWith('.mp4');
+
+                    if (isVideo) {
+                        return `
+                            <video class="project-media-item" controls loop muted autoplay playsinline>
+                                <source src="${file}" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
+                        `;
+                    } else {
+                        return `<img src="${file}" class="project-media-item" alt="${project.title} Render">`;
+                    }
+                }).join('')}
             </div>
         </div>
     `;
