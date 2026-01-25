@@ -4,7 +4,7 @@ const projectsData = [
         title: "Film Camera",
         image: "img/fotik/MAIN.jpg",
         description: `This project is a deep dive into creating a photorealistic asset with a primary focus on geometric precision and micro-detailing. My goal was to build a model capable of withstanding extreme macro shots while maintaining physical accuracy under any lighting conditions.`,
-        gallery: ["img/fotik/MAIN.jpg", "img/fotik/x3_4K.jpg","img/fotik/front.jpg","img/fotik/back.jpg","img/fotik/detail_1.jpg","img/fotik/detail_2.jpg","img/fotik/detail_3.jpg","img/fotik/detail_4.jpg","img/fotik/detail_5.jpg","img/fotik/white.jpg", "img/fotik/wire_05.jpg"]
+        gallery: ["img/fotik/MAIN.jpg", "img/fotik/x3_4K.jpg","img/fotik/front.jpg","img/fotik/back.jpg","img/fotik/detail_1.jpg","img/fotik/detail_2.jpg","img/fotik/detail_3.jpg","img/fotik/detail_4.jpg","img/fotik/detail_5.jpg","img/fotik/white.jpg"]
     },
     {
         id: "arc",
@@ -21,3 +21,4 @@ const projectsData = [
         gallery: ["img/demo/TEST_1_edited.jpg",  "img/demo/grey_4K.jpg", "img/demo/back.jpg", "img/demo/cir.mp4", "img/demo/grey_4K._detail_1.jpg", "img/demo/grey_4K._detail_2.jpg", "img/demo/back_detail.jpg"]
     }
 ];
+
