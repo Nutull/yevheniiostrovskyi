@@ -26,7 +26,15 @@ const projectsData = [
         image: "img/kar98/scene_1.jpg",
         description: "This is a Mauser Kar98k modeling project focused on geometric accuracy and realistic textures. I created PBR materials to show the natural wear on the wood and metal surfaces. The final renders use atmospheric lighting to present the rifle in a workshop setting.",
         gallery: ["img/kar98/scene_1.jpg", "img/kar98/front.jpg", "img/kar98/back.jpg", "img/kar98/detail.jpg", "img/kar98/detail_1.jpg", "img/kar98/detail_2.jpg", "img/kar98/detail_3.jpg", "img/kar98/0000-0240.mp4", "img/kar98/edit.jpg", "img/kar98/scene.jpg", "img/kar98/white.jpg"]
+    },
+    {
+        id: "mushi",
+        title: "Mushi The Mushroom",
+        image: "img/musi_opt/main.jpg",
+        description: "I created this model to experiment with comic-style stylization and halftone texturing. The goal was to translate a soft, organic shape into a graphic novel aesthetic using cell-shading and dot-matrix patterns.",
+        gallery: ["img/musi_opt/main.jpg", "img/musi_opt/360.mp4", "img/musi_opt/detail.jpg", "img/musi_opt/white.jpg", "img/musi_opt/wire.jpg"]
     }
 ];
+
 
 
