@@ -40,8 +40,16 @@ const projectsData = [
         image: "img/book_opt/main.jpg",
         description: "I created this scene to practice rendering realistic glass and emission in a dark environment. I really wanted to push the contrast between the dusty, old-book feel and the clean, glowing molecular shapes.",
         gallery: ["img/book_opt/main.jpg", "img/book_opt/without_back.jpg", "img/book_opt/white.jpg"]
+    },
+    {
+        id: "kostya",
+        title: "Kostya The Cat",
+        image: "img/cat_opt/1.jpg",
+        description: "I created this scene to practice rendering realistic glass and emission in a dark environment. I really wanted to push the contrast between the dusty, old-book feel and the clean, glowing molecular shapes.",
+        gallery: ["img/cat_opt/1.jpg", "img/cat_opt/2.jpg", "img/cat_opt/3.jpg", "img/cat_opt/360.mp4", "img/cat_opt/white.jpg", "img/cat_opt/wire.jpg"]
     }
 ];
+
 
 
 
