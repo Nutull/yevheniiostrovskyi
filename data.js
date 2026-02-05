@@ -47,8 +47,16 @@ const projectsData = [
         image: "img/cat_opt/1.jpg",
         description: "I created this scene to practice rendering realistic glass and emission in a dark environment. I really wanted to push the contrast between the dusty, old-book feel and the clean, glowing molecular shapes.",
         gallery: ["img/cat_opt/1.jpg", "img/cat_opt/2.jpg", "img/cat_opt/3.jpg", "img/cat_opt/360.mp4", "img/cat_opt/white.jpg", "img/cat_opt/wire.jpg"]
+    },
+    {
+        id: "room",
+        title: "Room",
+        image: "img/room_opt/main_def.jpg",
+        description: "Just an isometric room as a study in environmental storytelling and cozy lighting.",
+        gallery: ["img/room_opt/main_def.jpg", "img/room_opt/main.jpg", "img/room_opt/detail_1.jpg", "img/room_opt/detail_2.jpg", "img/room_opt/detail_3.jpg", "img/room_opt/white.jpg"]
     }
 ];
+
 
 
 
