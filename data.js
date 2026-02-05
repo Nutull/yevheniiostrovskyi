@@ -33,8 +33,16 @@ const projectsData = [
         image: "img/musi_opt/main.jpg",
         description: "I created this model to experiment with comic-style stylization and halftone texturing. The goal was to translate a soft, organic shape into a graphic novel aesthetic using cell-shading and dot-matrix patterns.",
         gallery: ["img/musi_opt/main.jpg", "img/musi_opt/360.mp4", "img/musi_opt/detail.jpg", "img/musi_opt/white.jpg", "img/musi_opt/wire.jpg"]
+    },
+    {
+        id: "magic_book",
+        title: "Magic Book",
+        image: "img/book_opt/main.jpg",
+        description: "I created this scene to practice rendering realistic glass and emission in a dark environment. I really wanted to push the contrast between the dusty, old-book feel and the clean, glowing molecular shapes.",
+        gallery: ["img/book_opt/main.jpg", "img/book_opt/without_back.jpg", "img/book_opt/white.jpg"]
     }
 ];
+
 
 
 
