@@ -30,9 +30,9 @@ const projectsData = [
     {
         id: "mushi",
         title: "Mushi The Mushroom",
-        image: "img/musi_opt/main.jpg",
+        image: "img/mushi_opt/main.jpg",
         description: "I created this model to experiment with comic-style stylization and halftone texturing. The goal was to translate a soft, organic shape into a graphic novel aesthetic using cell-shading and dot-matrix patterns.",
-        gallery: ["img/musi_opt/main.jpg", "img/musi_opt/360.mp4", "img/musi_opt/detail.jpg", "img/musi_opt/white.jpg", "img/musi_opt/wire.jpg"]
+        gallery: ["img/mushi_opt/main.jpg", "img/mushi_opt/360.mp4", "img/mushi_opt/detail.jpg", "img/mushi_opt/white.jpg", "img/mushi_opt/wire.jpg"]
     },
     {
         id: "magic_book",
@@ -56,6 +56,7 @@ const projectsData = [
         gallery: ["img/room_opt/main_def.jpg", "img/room_opt/main.jpg", "img/room_opt/detail_1.jpg", "img/room_opt/detail_2.jpg", "img/room_opt/detail_3.jpg", "img/room_opt/white.jpg"]
     }
 ];
+
 
 
 
