@@ -5,7 +5,7 @@ const projectsData = [
         image: "img/fnaf_post/top.jpg",
         description: `I’m excited to share the result of my long and hard work—a short 3D animated film based on the Five Nights at Freddy’s universe.
 Project Highlights:
-- handmade assets: Every model, environment, and texture was created manually by me.
+- handmade assets: every model, environment, and texture was created manually by me.
 - atmosphere and sound: I put a lot of effort into the sound design and final compositing. I tried to capture that signature, oppressive atmosphere of the original through lighting and ambient effects.
 - i’ll be honest - the animation is a bit rough in places. I’m not a professional animator yet.
 
@@ -69,6 +69,7 @@ Also below you can see some "behind the scenes" shots.`,
         gallery: ["img/room_opt/main_def.jpg", "img/room_opt/main.jpg", "img/room_opt/detail_1.jpg", "img/room_opt/detail_2.jpg", "img/room_opt/detail_3.jpg", "img/room_opt/white.jpg"]
     }
 ];
+
 
 
 
