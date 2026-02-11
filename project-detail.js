@@ -16,7 +16,7 @@ function loadProject() {
         <div class="project-detail-container">
             <header class="project-header">
                 <h1 class="project-title-large">${project.title}</h1>
-                <p class="project-description">${project.description}</p>
+                <p class="project-description">${project.description.replace(/\n/g, '<br>')}</p>
             </header>
 
             <div class="project-media-list">
@@ -41,3 +41,4 @@ function loadProject() {
 }
 
 document.addEventListener('DOMContentLoaded', loadProject);
+
