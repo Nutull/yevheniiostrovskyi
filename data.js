@@ -12,6 +12,13 @@ Project Highlights:
 Also below you can see some "behind the scenes" shots.`,
         gallery: ["img/fnaf_post/ns.mp4", "img/fnaf_post/1.jpg", "img/fnaf_post/2.jpg", "img/fnaf_post/3.jpg", "img/fnaf_post/4.jpg", "img/fnaf_post/5.jpg", "img/fnaf_post/6.jpg"]
     },
+        {
+        id: "kuruma",
+        title: "Kuruma The Clank",
+        image: "img/kuruma/main.jpg",
+        description: `This project focuses on the intricate design and mechanical assembly of a clank from daggerheart. My primary goal was to create a complex internal structure, including exposed wiring and hydraulic systems, ensuring that every joint looks functional. I paid special attention to the "under-the-hood" details to achieve a high level of technical realism.`,
+        gallery: ["img/kuruma/main.jpg", "img/kuruma/des.jpg", "img/kuruma/front.jpg", "img/kuruma/back.jpg", "img/kuruma/det1.jpg", "img/kuruma/det2.jpg", "img/kuruma/det3.jpg", "img/kuruma/det4.jpg", "img/kuruma/det5.jpg", "img/kuruma/1.jpg", "img/kuruma/2.jpg"]
+        }, 
     {
         id: "fotik",
         title: "Film Camera",
@@ -69,6 +76,7 @@ Also below you can see some "behind the scenes" shots.`,
         gallery: ["img/room_opt/main_def.jpg", "img/room_opt/main.jpg", "img/room_opt/detail_1.jpg", "img/room_opt/detail_2.jpg", "img/room_opt/detail_3.jpg", "img/room_opt/white.jpg"]
     }
 ];
+
 
 
 
