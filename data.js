@@ -31,7 +31,7 @@ Also below you can see some "behind the scenes" shots.`,
         title: "Demogorgon",
         image: "img/demo/TEST_1_edited.jpg",
         description: "This project explores the adaptation of a complex, organic creature into a simplified, stylized toy aesthetic. The challenge was to maintain the recognizable, terrifying features of the Demogorgon while conforming to the iconic Funko Pop design language.",
-        gallery: ["img/demo/TEST_1_edited.jpg",  "img/demo/grey_4K.jpg", "img/demo/back.jpg", "img/demo/cir.mp4", "img/demo/grey_4K._detail_1.jpg", "img/demo/grey_4K._detail_2.jpg", "img/demo/back_detail.jpg"]
+        gallery: ["img/demo/TEST_1_edited.jpg", "img/demo/demo.mp4", "img/demo/grey_4K.jpg", "img/demo/back.jpg", "img/demo/cir.mp4", "img/demo/grey_4K._detail_1.jpg", "img/demo/grey_4K._detail_2.jpg", "img/demo/back_detail.jpg"]
     },
     {
         id: "kar98",
@@ -69,6 +69,7 @@ Also below you can see some "behind the scenes" shots.`,
         gallery: ["img/room_opt/main_def.jpg", "img/room_opt/main.jpg", "img/room_opt/detail_1.jpg", "img/room_opt/detail_2.jpg", "img/room_opt/detail_3.jpg", "img/room_opt/white.jpg"]
     }
 ];
+
 
 
 
